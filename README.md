@@ -1,13 +1,13 @@
-# [Desaku - Desa Panggungrejo](https://panggungrejo.my.id)
+# [Desa Panggungrejo](http://www.panggungrejo.my.id)
 
-[Desaku](https://panggungrejo.my.id) merupakan sebuah web profil sederhana yang dibuat untuk Desa Panggungrejo, Kec. Kepanjen, Kab. Malang.
+[Desaku](http://www.panggungrejo.my.id) merupakan sebuah web profil sederhana yang dibuat untuk Desa Panggungrejo, Kec. Kepanjen, Kab. Malang.
 
 ## Preview
 
 [![Desaku Preview](![image](https://user-images.githubusercontent.com/79823574/176401639-6ed7089c-057a-4345-bdf4-32d09307fd45.png)
-)](https://panggungrejo.my.id)
+](http://www.panggungrejo.my.id)
 
-**[View Live Preview](https://panggungrejo.my.id)**
+**[View Live Preview](http://www.panggungrejo.my.id)**
 <!-- 
 ## About
 
