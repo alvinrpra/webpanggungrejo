@@ -1,4 +1,4 @@
-# [Desaku - Desa Panggungrejo](https://desapagarbesi.net)
+# [Desaku - Desa Panggungrejo](https://panggungrejo.my.id)
 
 [Desaku](https://panggungrejo.my.id) merupakan sebuah web profil sederhana yang dibuat untuk Desa Panggungrejo, Kec. Kepanjen, Kab. Malang.
 
